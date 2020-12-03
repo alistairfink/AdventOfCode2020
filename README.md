@@ -10,3 +10,4 @@ go run main.go [Challenge Number] [Use Test Data (True/False)]
 
 ## Challenge Numbers
 1 - Report Repair - https://adventofcode.com/2020/day/1
+2 - Password Philosophy - https://adventofcode.com/2020/day/2
