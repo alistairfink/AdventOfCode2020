@@ -33,6 +33,8 @@ func main() {
 		Challenges.Challenge3(useTestData)
 	} else if challengeNumber == "4" {
 		Challenges.Challenge4(useTestData)
+	} else if challengeNumber == "5" {
+		Challenges.Challenge5(useTestData)
 	} else {
 		println("Invalid Challenge Number:", challengeNumber)
 	}
