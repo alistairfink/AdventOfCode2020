@@ -14,3 +14,4 @@ go run main.go [Challenge Number] [Use Test Data (True/False)]
 3 - Toboggan Trajectory - https://adventofcode.com/2020/day/3
 4 - Passport Processing - https://adventofcode.com/2020/day/4
 5 - Binary Boarding - https://adventofcode.com/2020/day/5
+6 - Custom Customs - https://adventofcode.com/2020/day/6
