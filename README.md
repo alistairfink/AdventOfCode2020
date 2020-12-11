@@ -18,3 +18,4 @@ go run main.go [Challenge Number] [Use Test Data (True/False)]
 7 - Handy Haversacks - https://adventofcode.com/2020/day/7
 8 - Handheld Halting - https://adventofcode.com/2020/day/8
 9 - Encoding Error - https://adventofcode.com/2020/day/9
+10 - Adapter Array - https://adventofcode.com/2020/day/10
