@@ -1,2 +1,0 @@
-# github.com/alistairfink/AdventOfCode2020/Challenges
-Challenges\challenge13.go:170:10: undefined: i
