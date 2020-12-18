@@ -26,3 +26,4 @@ go run main.go [Challenge Number] [Use Test Data (True/False)]
 15 - Rambunctious Recitation - https://adventofcode.com/2020/day/15
 16 - Ticket Translation - https://adventofcode.com/2020/day/16
 17 - Conway Cubes - https://adventofcode.com/2020/day/17
+18 - Operation Order - https://adventofcode.com/2020/day/18

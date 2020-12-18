@@ -59,6 +59,8 @@ func main() {
 		Challenges.Challenge16(useTestData)
 	} else if challengeNumber == "17" {
 		Challenges.Challenge17(useTestData)
+	} else if challengeNumber == "18" {
+		Challenges.Challenge18(useTestData)
 	} else {
 		println("Invalid Challenge Number:", challengeNumber)
 	}
