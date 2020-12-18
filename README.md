@@ -24,3 +24,4 @@ go run main.go [Challenge Number] [Use Test Data (True/False)]
 13 - Shuttle Search - https://adventofcode.com/2020/day/13
 14 - Docking Data - https://adventofcode.com/2020/day/14
 15 - Rambunctious Recitation - https://adventofcode.com/2020/day/15
+16 - Ticket Translation - https://adventofcode.com/2020/day/16
