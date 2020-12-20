@@ -27,3 +27,4 @@ go run main.go [Challenge Number] [Use Test Data (True/False)]
 16 - Ticket Translation - https://adventofcode.com/2020/day/16
 17 - Conway Cubes - https://adventofcode.com/2020/day/17
 18 - Operation Order - https://adventofcode.com/2020/day/18
+19 - Monster Messages - https://adventofcode.com/2020/day/19
